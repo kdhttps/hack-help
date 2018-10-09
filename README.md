@@ -1,3 +1,3 @@
 # Docs Help
 
-## Fork from https://github.com/squidfunk/mkdocs-material
+## Get docs help from https://github.com/squidfunk/mkdocs-material - Thanks :)
