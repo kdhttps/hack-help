@@ -101,6 +101,8 @@ nav:
   - NodeJS:
     - Installation: nodejs/installation.md
     - Starteup App: nodejs/starteup-app.md
+  - Angular:
+    - RxJS: angular/rxjs.md
   - Author's notes: authors-notes.md
   - License: license.md
 
